@@ -20,7 +20,7 @@ This is a **single-file demo web app** (`vista.html`). It runs entirely in the b
 
 No install or build required.
 
-1. Download `wallstore.html`.
+1. Download `vista.html`.
 2. Open it directly in a modern browser (Chrome, Edge, or Firefox recommended).
 
 That's it. The app loads and saves all of its data locally in the browser.
@@ -64,7 +64,7 @@ This means:
 ## File Structure
 
 ```
-wallstore.html   # the entire application: markup, styles, and logic
+vista.html   # the entire application: markup, styles, and logic
 ```
 
 ## License
